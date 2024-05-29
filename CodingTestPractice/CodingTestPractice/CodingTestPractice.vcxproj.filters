@@ -13,10 +13,22 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\1주차">
+      <UniqueIdentifier>{668bae04-132d-444b-9363-a1deb9b1f07e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\2주차">
+      <UniqueIdentifier>{78f33d8b-400d-4ae2-82c3-63c9c79df623}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CodingTestPractice.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="1-A.cpp">
+      <Filter>소스 파일\1주차</Filter>
+    </ClCompile>
+    <ClCompile Include="2-M.cpp">
+      <Filter>소스 파일\2주차</Filter>
+    </ClCompile>
+    <ClCompile Include="2-N.cpp">
+      <Filter>소스 파일\2주차</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
