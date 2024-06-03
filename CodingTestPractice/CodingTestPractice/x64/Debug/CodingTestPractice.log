@@ -1,3 +1,2 @@
-﻿  2-q.cpp
-C:\Users\홍승완\Desktop\CodingTest\CodingTestPractice\CodingTestPractice\2-q.cpp(68,18): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  CodingTestPractice.vcxproj -> C:\Users\홍승완\Desktop\CodingTest\CodingTestPractice\x64\Debug\CodingTestPractice.exe
+﻿  2-r.cpp
+  CodingTestPractice.vcxproj -> C:\Users\H\Desktop\개인공부\코테알고리즘\CodingTest\CodingTestPractice\x64\Debug\CodingTestPractice.exe
