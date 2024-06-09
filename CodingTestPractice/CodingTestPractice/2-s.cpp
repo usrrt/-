@@ -40,7 +40,7 @@ int main()
 		cin >> a >> b;
 		adj[b].push_back(a); // a가 b를 신뢰 -> b와 연관된 a를 알아야하므로 adj[b]에 a를 push한다
 	}
-
+	
 	// 모든 정점확인 필요
 	int mx = 0;
 	for (int i = 1; i <= n; i++)
