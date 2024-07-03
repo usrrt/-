@@ -51,6 +51,9 @@
     <ClCompile Include="2-t.cpp">
       <Filter>소스 파일\2주차</Filter>
     </ClCompile>
+    <ClCompile Include="1-b.cpp">
+      <Filter>소스 파일\1주차</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="1주차 개념.txt">
