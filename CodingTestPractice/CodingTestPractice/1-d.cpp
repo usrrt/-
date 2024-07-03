@@ -19,6 +19,12 @@ int main()
 	}
 
 	cout << result;
+
+	/*
+	string temp = s;
+	reverse(s.begin(), s.end());
+	temp¿Í s ºñ±³
+	*/
 }
 
 #pragma endregion
