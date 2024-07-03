@@ -53,6 +53,13 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="개념" />
+    <Text Include="1주차 개념.txt">
+      <Filter>소스 파일\1주차</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="3주차 개념.txt">
+      <Filter>소스 파일\3주차</Filter>
+    </None>
   </ItemGroup>
 </Project>
